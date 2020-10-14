@@ -1,0 +1,1 @@
+SECRET_KEY = 'g2-_kzf+ic94^hg%i4w793%dznxynb@=z@)o!p4leie82o8s%y'
